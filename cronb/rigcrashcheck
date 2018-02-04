@@ -1,0 +1,3 @@
+PATH=/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin
+MAILTO=root
+*/15 * * * *   root    /home/ethos/Ethos/bin/check-miner.sh
